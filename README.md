@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fires13 and my real name is youssef
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science
+- 💞️ im currntly working on a game called The Warefare
 - 📫 How to reach me ... email:youssef13.atef@gmail.con
 youtube:Mega Fires
 
